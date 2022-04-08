@@ -26,7 +26,7 @@ Insights from algorithms and representations in modern SAT and SMT solvers
 
 Unifying semantic and algorithmic frameworks for distinct forms of reasoning
 
-## Goals: 
+## Goals
 
 Expose forms of reasoning that are novel/underexplored within the ML community, ultimately leading to their formalization and implementation in software
 
@@ -39,7 +39,7 @@ Predict what lies beyond the current languages and algorithms for reasoning, and
 ## Planned activities
 The workshop will consist of several types of sessions, broken up by 15 min coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 min followed by 10 min breakout discussion at tables and 10 min full group Q&A with the speaker. Panel discussions will consist of three invited panelists each giving a 15 min talk, then a discussion moderated by an organizer. Lunch will be provided, with suggestions for lunch discussion, followed by a short recap. Contributed talks will be 15 min each and a poster session will be 1hr.  Both will be selected by organizers from 1 paragraph abstract submissions. These times may be adapted to accommodate speakers who confirm later.
 
-### Rough timeline: 
+### Rough timeline
 
 9am-9:45am: Invited talk on new reasoning problems and modes of reasoning. 
 
