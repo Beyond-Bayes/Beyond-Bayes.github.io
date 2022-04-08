@@ -26,7 +26,7 @@ Insights from algorithms and representations in modern SAT and SMT solvers
 
 Unifying semantic and algorithmic frameworks for distinct forms of reasoning
 
-### Goals: 
+## Goals: 
 
 Expose forms of reasoning that are novel/underexplored within the ML community, ultimately leading to their formalization and implementation in software
 
