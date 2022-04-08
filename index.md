@@ -1,4 +1,4 @@
-#[Call for submissions](./call.md)
+# [Call for submissions](./call.md)
 
 # Overview
 
