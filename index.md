@@ -1,4 +1,3 @@
-# Beyond Bayes: Paths Towards Universal Reasoning Systems
 
 A long-standing objective of AI research has been to discover theories of reasoning that are general: accommodating various forms of knowledge and applicable across a diversity of domains. The last two decades have brought steady advances toward this goal, notably in the form of mature theories of probabilistic and causal inference, and in the explosion of reasoning methods built upon the deep learning revolution. However, these advances have only further exposed gaps in both our basic understanding of reasoning and in limitations in the flexibility and composability of automated reasoning technologies.  This workshop aims to reinvigorate work on the grand challenge of developing a computational foundation for reasoning in minds, brains, and machines.
 
