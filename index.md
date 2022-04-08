@@ -1,4 +1,4 @@
-[Call for submissions](./call.html)
+[Call for submissions](./call.md)
 
 ## Description
 
