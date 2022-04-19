@@ -80,8 +80,6 @@ The workshop will consist of several types of sessions, broken up by 15 minute c
 
 *This list is still being finalized and currently only shows a subset of confirmed invitees.*
 
-**Diversity**: With the organizers and invited speakers, we have brought together a community of researchers who are diverse in intellectual background, seniority, gender, and ethnicity.
-
 
 ### [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/)
 <img src="https://user-images.githubusercontent.com/2993689/164081243-dcc8b5bb-a267-4688-9a2f-37a740e53938.jpg" width="200" />
