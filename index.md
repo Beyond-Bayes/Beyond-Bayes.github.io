@@ -81,16 +81,26 @@ The workshop will consist of several types of sessions, broken up by 15 minute c
 *This list is still being finalized and currently only shows a subset of confirmed invitees.*
 
 **Diversity**: With the organizers and invited speakers, we have brought together a community of researchers who are diverse in intellectual background, seniority, gender, and ethnicity.
-### [Tyler Bonnen](https://neuroscience.stanford.edu/people/tyler-bonnen)
 
+
+### [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/)
+<img src="https://user-images.githubusercontent.com/2993689/164081243-dcc8b5bb-a267-4688-9a2f-37a740e53938.jpg" width="200" />
+Guy Van den Broeck is an Associate Professor and Samueli Fellow at UCLA, in the Computer Science Department, where he directs the Statistical and Relational Artificial Intelligence (StarAI) lab. His research interests are in Machine Learning, Knowledge Representation and Reasoning, and Artificial Intelligence in general. His papers have been recognized with awards from key conferences such as AAAI, UAI, KR, OOPSLA, and ILP. Guy is the recipient of an NSF CAREER award, a Sloan Fellowship, and the IJCAI-19 Computers and Thought Award. 
+
+### [Kimberly Stachenfeld](https://neurokim.com/)
+<img src="https://user-images.githubusercontent.com/2993689/164081330-027fe397-eb57-46bc-8591-8e410aca2482.jpg" width="200" />
+Kimberly Stachenfeld is a Senior Research Scientist at DeepMind. She received her PhD in Computational Neuroscience from Princeton University in 2018. Before that, she received her Bachelors from Tufts University in 2013, where she majored in Chemical & Biological Engineering and Mathematics. Her research is at the interface of Neuroscience and Machine Learning, focusing on graph-based computations for efficient learning and planning in brains and in machines. 
+
+### [Thomas Icard](https://web.stanford.edu/~icard/)
+<img src="https://user-images.githubusercontent.com/2993689/164081369-a0009bb1-6548-4086-9e84-f4f61e29f48c.jpeg" width="200" />
+Thomas Icard is an Associate Professor of Philosophy and (by courtesy) of Computer Science at Stanford University. Thomas works at the intersection of philosophy, cognitive science, and computer science, especially on topics that sit near the boundary between the normative (how we ought to think and act) and the descriptive (how we in fact do think and act). Much of his research concerns the theory and application of logic, probability, and causal modeling and inference. Some current topics of interest include explanation, the quantitative/qualitative interface, and reasoning with limited resources.
+
+### [Tyler Bonnen](https://neuroscience.stanford.edu/people/tyler-bonnen)
 After transferring from Miami-Dade Community College, tyler studied chemistry and comparative literature at Columbia University. He went on to research fellowships in the Max-Planck Institute in Leipzig, then in the Department of Brain and Cognitive Sciences at MIT before coming to Stanford. In his current work, co-advised by Anthony Wagner and Daniel Yamins, tyler uses biologically plausible computational models, neural data, and animal behavior in order to formalize the relationship between perception and memory.
 
 ### [Ishita Dasgupta](https://ishita-dg.github.io/)
-
 Ishita is a Research Scientist at DeepMind New York City. She was previously a postdoctoral researcher at Princeton University in the Departments of Psychology and Computer Science, working in the Computational Cognitive Science Lab with Prof. Tom Griffiths. She received her PhD from the Department of Physics at Harvard University in 2020, working in the Computational Cognitive Neuroscience Lab with Prof. Sam Gershman. Her research is at the intersection of computational cognitive science and machine learning. Ishita uses advances in machine learning to build new models of human reasoning, applies cognitive science approaches toward understanding black-box AI systems, and combines these insights to build better, more human-like artificial intelligence.
-### [Thomas Icard](https://web.stanford.edu/~icard/)
 
-Thomas is associate professor of philosophy and computer science (by courtesy) at Stanford University.
 
 # Organizers
 
