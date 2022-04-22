@@ -2,8 +2,8 @@
 
 - [Abstract](#abstract)
 - [Call for Submissions](#call-for-submissions)
-- [Schedule and Planned Activities](#schedule-and-planned-activities)
 - [Invited Speakers and Panelists](#invited-speakers-and-panelists)
+- [Schedule and Planned Activities](#schedule-and-planned-activities)
 - [Organizers](#organizers)
 
 ## Abstract
