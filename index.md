@@ -45,9 +45,11 @@ Specific topics relevant to these larger goals include:
 
 # Call for Submissions
 
+ *Note: date in OpenReview will be corrected to May 16*
+ 
 We seek submissions related to any of the topics in the overview, especially ongoing or preliminary work that bridges gaps between topics, and work that might be unfamiliar to the broader ICML community. Submissions will be lightly reviewed for relevance and clarity. All accepted submissions will be presented as posters at a poster session, and a subset will also be selected for oral presentation as contributed talks.  Talks will be selected to generate interesting discussions -- speculative/perspective abstracts welcome.
 
-**Submissions are due in [OpenReview](https://openreview.net/group?id=ICML.cc/2022/Workshop/Beyond_Bayes) by midnight AoE on May 16, 2022** *(date in OpenReview will be updated to May 16 shortly)* and may take one of two forms:
+**Submissions are due in [OpenReview](https://openreview.net/group?id=ICML.cc/2022/Workshop/Beyond_Bayes) by midnight AoE on May 16, 2022** and may take one of two forms:
 
 1. **Extended Abstracts**: Authors may submit ongoing or preliminary work in the form of an extended abstract of 2-4 pages (excluding references or appendices, preference for shorter abstracts) for consideration for a poster presentation. Submissions should be anonymized and formatted in the [ICML style](https://icml.cc/Conferences/2022/CallForPapers). Abstracts are non-archival, but will be publicly posted on the workshop website if accepted.
 2. **Syndicated Submissions**: Authors may also submit recent work that has been accepted for publication in another venue within the last 12 months of the deadline for consideration for a poster presentation. To encourage broad participation, preference will be given to work on topics that might be less familiar to the ICML community. Syndicated submissions can be in their original format, have no length requirement, and do not need to be anonymized. They are also non-archival, but will be posted publicly on the workshop website if accepted.
@@ -78,7 +80,7 @@ The workshop will consist of several types of sessions, broken up by 15 minute c
 
 # Invited Speakers and Panelists
 
-*This list is still being finalized and currently only shows a subset of confirmed invitees.*
+*This list is still being finalized and currently only shows a subset of invitees.*
 
 
 ### [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/)
