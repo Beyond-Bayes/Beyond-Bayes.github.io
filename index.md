@@ -68,10 +68,6 @@ Joshua Tenenbaum is Professor of Computational Cognitive Science at MIT in the D
 <img src="https://user-images.githubusercontent.com/2993689/164081243-dcc8b5bb-a267-4688-9a2f-37a740e53938.jpg" width="200" />
 Guy Van den Broeck is an Associate Professor and Samueli Fellow at UCLA, in the Computer Science Department, where he directs the Statistical and Relational Artificial Intelligence (StarAI) lab. His research interests are in Machine Learning, Knowledge Representation and Reasoning, and Artificial Intelligence in general. His papers have been recognized with awards from key conferences such as AAAI, UAI, KR, OOPSLA, and ILP. Guy is the recipient of an NSF CAREER award, a Sloan Fellowship, and the IJCAI-19 Computers and Thought Award. 
 
-### [Jan-Willem van de Meent](https://jwvdm.github.io/) *(tentatively confirmed)* 
-
-Jan-Willem van de Meent is an Associate Professor (Universitair Hoofddocent) at the University of Amsterdam, where he co-directs the AMLab with Max Welling. He is also an Assistant Professor (on leave) at Northeastern University, where he continues to advise and collaborate. His research develops models for artificial intelligence by combining probabilistic programming and deep learning. His group's work seeks to understand what inductive biases can enable models to generalize from limited data. These inductive biases can take the form of a simulator that incorporates knowledge of an underlying physical system, causal structure, or symmetries of the underlying domain. They combine model development with research on methods for inference in these models. They also put this work into practice in collaborations with researchers in robotics, NLP, healthcare, and the physical sciences. The technical backbone in much of his group's work is probabilistic programming. He is one of the creators of Anglican, a probabilistic language based on Clojure. His group currently develops Probabilistic Torch, a library for deep generative models that extends PyTorch. He is writing a book on probabilistic programming, a draft of which is available on arXiv. He is also a co-chair of the international conference on probabilistic programming (PROBPROG).
-
 ### [Kimberly Stachenfeld](https://neurokim.com/)
 <img src="https://user-images.githubusercontent.com/2993689/164081330-027fe397-eb57-46bc-8591-8e410aca2482.jpg" width="200" />
 Kimberly Stachenfeld is a Senior Research Scientist at DeepMind. She received her PhD in Computational Neuroscience from Princeton University in 2018. Before that, she received her Bachelors from Tufts University in 2013, where she majored in Chemical & Biological Engineering and Mathematics. Her research is at the interface of Neuroscience and Machine Learning, focusing on graph-based computations for efficient learning and planning in brains and in machines. 
@@ -96,6 +92,8 @@ Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.gi
 
 # Schedule and Planned Activities
 The workshop will consist of several types of sessions, broken up by 15 minute coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 minute followed by 10 minute breakout discussion at tables and up to 10 minutes full group Q&A with the speaker. Contributed talks will be 15 minutes. Panel discussions will consist of invited panelists each giving a short talk, then an extended stage discussion moderated by an organizer.
+
+The workshop will be held in room BLRM 1,2 T2000, on July 22nd, 2022.	
 
 ## Schedule (tentative)
 
