@@ -1,4 +1,4 @@
-# Overview
+# Beyond Bayes: Paths Towards Universal Reasoning Systems
 
 - [Abstract](#abstract)
 - [Call for Submissions](#call-for-submissions)
