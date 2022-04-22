@@ -87,23 +87,27 @@ Tyler is a PhD student in the Department of Psychology at Stanford University. A
 Ishita is a Research Scientist at DeepMind New York City. She was previously a postdoctoral researcher at Princeton University in the Departments of Psychology and Computer Science, working in the Computational Cognitive Science Lab with Prof. Tom Griffiths. She received her PhD from the Department of Physics at Harvard University in 2020, working in the Computational Cognitive Neuroscience Lab with Prof. Sam Gershman. Her research is at the intersection of computational cognitive science and machine learning. Ishita uses advances in machine learning to build new models of human reasoning, applies cognitive science approaches toward understanding black-box AI systems, and combines these insights to build better, more human-like artificial intelligence.
 
 # Schedule and Planned Activities
-The workshop will consist of several types of sessions, broken up by 15 minute coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 minute followed by 10 minute breakout discussion at tables and a 10 minute full group Q&A with the speaker. Contributed talks will be 15 minutes. Panel discussions will consist of invited panelists each giving a short talk, then an extended stage discussion moderated by an organizer.
+The workshop will consist of several types of sessions, broken up by 15 minute coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 minute followed by 10 minute breakout discussion at tables and up to 10 minutes full group Q&A with the speaker. Contributed talks will be 15 minutes. Panel discussions will consist of invited panelists each giving a short talk, then an extended stage discussion moderated by an organizer.
 
 ## Schedule (tentative)
 
-**9am-9:45am**: Invited talk on new reasoning problems and modes of reasoning. 
+**9am-9:45am**: Invited talk on the cognitive science of reasoning. 
 
-**10am-11:15am**: Panel, “Reasoning in brains vs machines”
+**9:45am-11:00am**: Panel, “Reasoning in brains vs machines”
 
-**11:30am-12:45pm**: Invited talk on the cognitive science of reasoning.
+**11:15am-12:00pm**: Invited talk on new reasoning problems and modes of reasoning.
+
+**12:15pm-12:45pm**: Contributed talks
 
 **12:45pm-1:45pm**: Lunch
 
-**1:45pm-3pm**: Panel, “New computational technologies for reasoning”
+**1:45pm-2:30pm**: Invited talk on the future of automated reasoning
 
-**3-3:45pm**: Invited talk on the future of automated reasoning
+**2:30-3:45pm**: Panel, “New computational technologies for reasoning”
 
-**4pm-5pm**: Contributed talks
+**4pm-4:30pm**: Invited talk
+
+**4:30pm-5pm**: Contributed talks
 
 **5pm-6pm**: In-person poster session and social hour
 
