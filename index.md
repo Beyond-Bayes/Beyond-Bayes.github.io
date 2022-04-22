@@ -56,28 +56,6 @@ We seek submissions related to any of the topics in the overview, especially ong
 
 To stimulate discussion and interaction, poster presentations will be entirely in-person absent any further changes from the ICML conference chairs. Some need-based funding for travel and registration for speakers and poster presenters may be available from the workshop’s sponsors.
 
-
-# Schedule and Planned Activities
-The workshop will consist of several types of sessions, broken up by 15 minute coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 minute followed by 10 minute breakout discussion at tables and a 10 minute full group Q&A with the speaker. Contributed talks will be 15 minutes. Panel discussions will consist of invited panelists each giving a short talk, then an extended stage discussion moderated by an organizer.
-
-## Schedule (tentative)
-
-**9am-9:45am**: Invited talk on new reasoning problems and modes of reasoning. 
-
-**10am-11:15am**: Panel, “Reasoning in brains vs machines”
-
-**11:30am-12:45pm**: Invited talk on the cognitive science of reasoning.
-
-**12:45pm-1:45pm**: Lunch
-
-**1:45pm-3pm**: Panel, “New computational technologies for reasoning”
-
-**3-3:45pm**: Invited talk on the future of automated reasoning
-
-**4pm-5pm**: Contributed talks
-
-**5pm-6pm**: In-person poster session and social hour
-
 # Invited Speakers and Panelists
 
 *This list is still being finalized and currently only shows a subset of invitees.*
@@ -101,6 +79,26 @@ After transferring from Miami-Dade Community College, tyler studied chemistry an
 ### [Ishita Dasgupta](https://ishita-dg.github.io/)
 Ishita is a Research Scientist at DeepMind New York City. She was previously a postdoctoral researcher at Princeton University in the Departments of Psychology and Computer Science, working in the Computational Cognitive Science Lab with Prof. Tom Griffiths. She received her PhD from the Department of Physics at Harvard University in 2020, working in the Computational Cognitive Neuroscience Lab with Prof. Sam Gershman. Her research is at the intersection of computational cognitive science and machine learning. Ishita uses advances in machine learning to build new models of human reasoning, applies cognitive science approaches toward understanding black-box AI systems, and combines these insights to build better, more human-like artificial intelligence.
 
+# Schedule and Planned Activities
+The workshop will consist of several types of sessions, broken up by 15 minute coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 minute followed by 10 minute breakout discussion at tables and a 10 minute full group Q&A with the speaker. Contributed talks will be 15 minutes. Panel discussions will consist of invited panelists each giving a short talk, then an extended stage discussion moderated by an organizer.
+
+## Schedule (tentative)
+
+**9am-9:45am**: Invited talk on new reasoning problems and modes of reasoning. 
+
+**10am-11:15am**: Panel, “Reasoning in brains vs machines”
+
+**11:30am-12:45pm**: Invited talk on the cognitive science of reasoning.
+
+**12:45pm-1:45pm**: Lunch
+
+**1:45pm-3pm**: Panel, “New computational technologies for reasoning”
+
+**3-3:45pm**: Invited talk on the future of automated reasoning
+
+**4pm-5pm**: Contributed talks
+
+**5pm-6pm**: In-person poster session and social hour
 
 # Organizers
 
