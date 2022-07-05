@@ -96,7 +96,7 @@ The workshop will be held in Ballroom 2 at the Baltimore Convention Center, on F
 
 ## Schedule
 
-**8:45 AM - 9:00 AM **: Doors Open & Welcome (Opening Remarks) 
+**8:45 AM - 9:00 AM**: Doors Open & Welcome (Opening Remarks) 
 
 **9:00 AM - 9:45 AM**: Opening Keynote: Cognitive Science of Reasoning
 
@@ -135,7 +135,7 @@ The workshop will be held in Ballroom 2 at the Baltimore Convention Center, on F
 - Talk 3 (20 min): Ishita Dasgupta, Research Scientist at DeepMind
 - Q+A and Group Panel Discussion (30 min)
 
-**3:00 PM - 3:30 PM **: ICML Plenary Break
+**3:00 PM - 3:30 PM**: ICML Plenary Break
 
 **3:30 PM - 4:55pm**: Session 3: New Computational Technologies for Reasoning (Talks & Panel Discussion)
 
