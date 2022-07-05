@@ -90,31 +90,64 @@ Jan-Willem van de Meent’s group develops models for artificial intelligence by
 Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.github.io/anglican/), a probabilistic language based on Clojure. His group currently develops [Probabilistic Torch](https://github.com/probtorch/probtorch), a library for deep generative models that extends PyTorch. He is an author on a forthcoming book on probabilistic programming, a draft of which is available on arXiv. He is a co-chair of the international conference on probabilistic programming ([PROBPROG](https://probprog.cc/)). He was the recipient of an NWO Rubicon Fellowship and is a current recipient of the NSF CAREER award.
 
 # Schedule and Planned Activities
-The workshop will consist of several types of sessions, broken up by 15 minute coffee breaks. Discussion will be encouraged at all sessions, and there will be an option for contributed talks and posters. Invited talks will be 25 minute followed by 10 minute breakout discussion at tables and up to 10 minutes full group Q&A with the speaker. Contributed talks will be 15 minutes. Panel discussions will consist of invited panelists each giving a short talk, then an extended stage discussion moderated by an organizer.
+The workshop will consist of an opening keynote presentations and three sessions, each broken up by 30 minute ICML plenary breaks. Discussion will be encouraged at all sessions. Invited talks will be 20 minutes followed by 25 minute panel discussions, in which the audience is welcome to participate in the Q+A. Contributed talks will be rapid, 5 minute presentations; attendees may use the ICML break times immediately following these presentations to meet the presenters and ask any questions. 
 
-The workshop will be held in room BLRM 1,2 T2000, on July 22nd, 2022.	
+The workshop will be held in Ballroom 2 at the Baltimore Convention Center, on Friday, July 22nd, 2022.	
 
-## Schedule (tentative)
+## Schedule
 
-**9am-9:45am**: Invited talk on the cognitive science of reasoning. 
+**8:45 AM - 9:00 AM **: Doors Open & Welcome (Opening Remarks) 
 
-**9:45am-11:00am**: Panel, “Reasoning in brains vs machines”
+**9:00 AM - 9:45 AM**: Opening Keynote: Cognitive Science of Reasoning
 
-**11:15am-12:00pm**: Invited talk on new reasoning problems and modes of reasoning.
+- Speaker: Thomas Icard, Associate Professor of Philosophy and (by courtesy) of Computer Science at Stanford University
+- Moderator/MC: Zenna Tavares
 
-**12:15pm-12:45pm**: Contributed talks
+**9:45 AM - 10:00 AM**: Contributed Spotlight Talks: Part 1 
 
-**12:45pm-1:45pm**: Lunch
+- Talk 1 (P23): Language Model Cascades (David Dohan, Winnie Xu)
+- Talk 2 (P08): Map Induction: Compositional Spatial Submap Learning for Efficient Exploration in Novel Environments (Sugandha Sharma)
+- Talk 3 (P18): Abstract Interpretation for Generalized Heuristic Search in Model-Based Planning (Tan Zhi-Xuan, Vikash K. Mansinghka)
 
-**1:45pm-2:30pm**: Invited talk on the future of automated reasoning
+**10:00 AM - 10:30 AM**: ICML Plenary Break 
 
-**2:30-3:45pm**: Panel, “New computational technologies for reasoning”
+**10:30 AM - 11:35 PM**: Session 1: New Reasoning Problems and Modes of Reasoning (Talks & Panel Discussion)
 
-**4pm-4:30pm**: Invited talk
+- Moderator/MC: Robert Ness
+- Talk 1 (20 min): Joshua Tenenbaum, Professor of Computational Cognitive Science at MIT in the Department of Brain and Cognitive Sciences, the Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds and Machines (CBMM)
+- Talk 2 (20 min): Charles Sutton, Research Scientist, Google AI; Associate Professor, School of Informatics, University of Edinburgh; and Fellow, The Alan Turing Institute
+- Q+A and Group Panel Discussion (25 min) - Thomas Icard will also join this panel discussion
 
-**4:30pm-5pm**: Contributed talks
+**11:35 AM - 12:00 PM**: Contributed Spotlight Talks: Part 2
 
-**5pm-6pm**: In-person poster session and social hour
+- Talk 4 (P10): Combining Functional and Automata Synthesis to Discover Causal Reactive Programs (Ria Das)
+- Talk 5 (P26): Biological Mechanisms for Learning Predictive Models of the World and Generating Flexible Predictions (Ching Fang)
+- Talk 6 (P02): Designing Perceptual Puzzles by Differentiating Probabilistic Programs (Kartik Chandra)
+- Talk 7 (P14): Logical Activation Functions (Scott Lowe)
+
+**12:00 PM - 1:30 PM**: ICML Plenary Lunch Break
+
+**1:30 PM - 3:00 PM**: Session 2: Reasoning in Brains vs Machines (Talks & Panel Discussion)
+
+- Moderator/MC: Emily Mackevicius
+- Talk 1 (20 min): Kim Stachenfeld, Senior Research Scientist, DeepMind
+- Talk 2 (20 min): Tyler Bonnen, PhD Student, Department of Psychology, Stanford University
+- Talk 3 (20 min): Ishita Dasgupta, Research Scientist at DeepMind
+- Q+A and Group Panel Discussion (30 min)
+
+**3:00 PM - 3:30 PM **: ICML Plenary Break
+
+**3:30 PM - 4:55pm**: Session 3: New Computational Technologies for Reasoning (Talks & Panel Discussion)
+
+- Moderator/MC: Armando Solar-Lezama
+- Talk 1 (20 min): Guy Van den Broeck, Associate Professor and Samueli Fellow, Computer Science Department, UCLA
+- Talk 2 (20 min): Jan-Willem van de Meent, Associate Professor (Universitair Hoofddocent), University of Amsterdam
+- Talk 3: Speaker TBD
+- Q+A and Group Panel Discussion (25 min)
+
+**4:55 PM - 5:00 PM**: Closing Remarks
+
+**5:00 PM - 6:00 PM**: Poster Session (In Person Only)
 
 # Organizers
 
