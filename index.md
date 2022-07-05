@@ -89,6 +89,11 @@ Jan-Willem van de Meent’s group develops models for artificial intelligence by
 
 Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.github.io/anglican/), a probabilistic language based on Clojure. His group currently develops [Probabilistic Torch](https://github.com/probtorch/probtorch), a library for deep generative models that extends PyTorch. He is an author on a forthcoming book on probabilistic programming, a draft of which is available on arXiv. He is a co-chair of the international conference on probabilistic programming ([PROBPROG](https://probprog.cc/)). He was the recipient of an NWO Rubicon Fellowship and is a current recipient of the NSF CAREER award.
 
+### [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/)
+
+Charles Sutton is a Research Scientist at Google AI, an Associate Professor at the School of Informatics, University of Edinburgh; and a
+Fellow at the The Alan Turing Institute. _Biography coming soon._ 
+
 # Schedule and Planned Activities
 The workshop will consist of an opening keynote presentations and three sessions, each broken up by 30 minute ICML plenary breaks. Discussion will be encouraged at all sessions. Invited talks will be 20 minutes followed by 25 minute panel discussions, in which the audience is welcome to participate in the Q+A. Contributed talks will be rapid, 5 minute presentations; attendees may use the ICML break times immediately following these presentations to meet the presenters and ask any questions. 
 
