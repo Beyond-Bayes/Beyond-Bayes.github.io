@@ -91,8 +91,7 @@ Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.gi
 
 ### [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/)
 
-Charles Sutton is a Research Scientist at Google AI, an Associate Professor at the School of Informatics, University of Edinburgh; and a
-Fellow at the The Alan Turing Institute. _Biography coming soon._ 
+Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent to Associate Professor: http://bit.ly/1W9UhqT) in Machine Learning at the University of Edinburgh. He has published over 50 papers in probabilistic machine learning and deep learning, motivated by the demands of a broad range of applications, including natural language processing (NLP), analysis of computer systems, sustainable energy, data analysis, and software engineering. His work in machine learning for software engineering has won two ACM Distinguished Paper Awards.
 
 # Schedule and Planned Activities
 The workshop will consist of an opening keynote presentation and three sessions, each broken up by 30 minute ICML plenary breaks. Discussion will be encouraged at all sessions. Invited talks will be 20 minutes followed by 25 minute panel discussions, in which the audience is welcome to participate in the Q+A. Contributed talks will be rapid, 5 minute presentations; attendees may use the ICML break times immediately following these presentations to meet the researchers and ask any questions. 
