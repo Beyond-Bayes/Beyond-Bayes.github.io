@@ -1,10 +1,11 @@
 # Beyond Bayes: Paths Towards Universal Reasoning Systems
 
 - [Abstract](#abstract)
-- [Call for Submissions](#call-for-submissions)
 - [Invited Speakers and Panelists](#invited-speakers-and-panelists)
 - [Schedule and Planned Activities](#schedule-and-planned-activities)
+- [Accepted posters](#accepted-posters)
 - [Organizers](#organizers)
+- [Call for Submissions (expired)](#call-for-submissions)
 
 ## Abstract
 A long-standing objective of AI research has been to discover theories of reasoning that are general: accommodating various forms of knowledge and applicable across a diversity of domains. The last two decades have brought steady advances toward this goal, notably in the form of mature theories of probabilistic and causal inference, and in the explosion of reasoning methods built upon the deep learning revolution. However, these advances have only further exposed gaps in both our basic understanding of reasoning and in limitations in the flexibility and composability of automated reasoning technologies. 
@@ -42,17 +43,6 @@ Specific topics relevant to these larger goals include:
 - Insights from algorithms and representations in modern SAT and SMT solvers
 
 - Unifying semantic and algorithmic frameworks for distinct forms of reasoning
-
-# Call for Submissions
- 
-We seek submissions related to any of the topics in the overview, especially ongoing or preliminary work that bridges gaps between topics, and work that might be unfamiliar to the broader ICML community. Submissions will be lightly reviewed for relevance and clarity. All accepted submissions will be presented as posters at a poster session, and a subset will also be selected for oral presentation as contributed talks.  Talks will be selected to generate interesting discussions -- speculative/perspective abstracts welcome.
-
-**Submissions are due in [OpenReview](https://openreview.net/group?id=ICML.cc/2022/Workshop/Beyond_Bayes) before midnight AoE on June 7, 2022 (extended deadline)** and may take one of two forms:
-
-1. **Extended Abstracts**: Authors may submit ongoing or preliminary work in the form of an extended abstract of 2-4 pages (excluding references or appendices, preference for shorter abstracts) for consideration for a poster presentation. Submissions should be anonymized and formatted in the [ICML style](https://icml.cc/Conferences/2022/CallForPapers). Abstracts are non-archival, but will be publicly posted on the workshop website if accepted.
-2. **Syndicated Submissions**: Authors may also submit recent work that has been accepted for publication in another venue within the last 12 months of the deadline for consideration for a poster presentation. To encourage broad participation, preference will be given to work on topics that might be less familiar to the ICML community. Syndicated submissions can be in their original format, have no length requirement, and do not need to be anonymized. They are also non-archival, but will be posted publicly on the workshop website if accepted.
-
-To stimulate discussion and interaction, poster presentations will be entirely in-person absent any further changes from the ICML conference chairs. Some need-based funding for travel and registration for speakers and poster presenters may be available from the workshop’s sponsors.
 
 # Invited Speakers and Panelists
 
@@ -153,6 +143,10 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 
 **5:00 PM - 6:00 PM**: Poster Session (In Person Only)
 
+# Accepted posters
+
+- Lastname, firstname et al. - Poster title, authors et al. ([poster](https://link-to-poster), [paper](https://link-to-paper-pdf))
+
 # Organizers
 
 ### [Nada Amin](https://namin.seas.harvard.edu/)
@@ -181,3 +175,15 @@ Armando Solar-Lezama is a Professor in the Department of Electrical Engineering 
 
 ### [Zenna Tavares](http://www.zenna.org/)
 Zenna Tavares is the inaugural Innovation Scholar in Columbia University’s Zuckerman Mind Brain Behavior Institute, and Associate Research Scientist in the Data Science Institute. Zenna’s research aims to understand how humans reason, that is, how they come to derive knowledge from observing and interacting with the world. He also constructs computational and statistical tools that help advance his work on causal reasoning, probabilistic programming, and other areas. Prior to Columbia University, he was at MIT, where he received a PhD in Cognitive Science and Statistics and was a Postdoctoral Research researcher in the Computer Science Artificial Intelligence Lab (CSAIL). Zenna has co-organized a number of workshops, including DBAI at Neurips 2021, and OOD Generalization at Neurips 2021, and served on the program committee for UAI, ICML, Neurips, ICLR, and LAFI (POPL).
+
+
+# Call for Submissions
+ 
+We seek submissions related to any of the topics in the overview, especially ongoing or preliminary work that bridges gaps between topics, and work that might be unfamiliar to the broader ICML community. Submissions will be lightly reviewed for relevance and clarity. All accepted submissions will be presented as posters at a poster session, and a subset will also be selected for oral presentation as contributed talks.  Talks will be selected to generate interesting discussions -- speculative/perspective abstracts welcome.
+
+**Submissions are due in [OpenReview](https://openreview.net/group?id=ICML.cc/2022/Workshop/Beyond_Bayes) before midnight AoE on June 7, 2022 (extended deadline)** and may take one of two forms:
+
+1. **Extended Abstracts**: Authors may submit ongoing or preliminary work in the form of an extended abstract of 2-4 pages (excluding references or appendices, preference for shorter abstracts) for consideration for a poster presentation. Submissions should be anonymized and formatted in the [ICML style](https://icml.cc/Conferences/2022/CallForPapers). Abstracts are non-archival, but will be publicly posted on the workshop website if accepted.
+2. **Syndicated Submissions**: Authors may also submit recent work that has been accepted for publication in another venue within the last 12 months of the deadline for consideration for a poster presentation. To encourage broad participation, preference will be given to work on topics that might be less familiar to the ICML community. Syndicated submissions can be in their original format, have no length requirement, and do not need to be anonymized. They are also non-archival, but will be posted publicly on the workshop website if accepted.
+
+To stimulate discussion and interaction, poster presentations will be entirely in-person absent any further changes from the ICML conference chairs. Some need-based funding for travel and registration for speakers and poster presenters may be available from the workshop’s sponsors.
