@@ -176,7 +176,7 @@ P13: Estimating Categorical Counterfactuals via Deep Twin Networks. Authors: Ath
 
 P14: Logical Activation Functions: Logit-space Equivalents of Probabilistic Boolean Operators. Authors: Scott C Lowe, Robert Earle, Jason d'Eon, Thomas Trappenberg, Sageev Oore. [paper](https://drive.google.com/file/d/1yMquez8KwMiN1yQ0Vh8eN2s-gFTk8Yqf/view?usp=sharing)
 
-P15: Bias of Causal Identification using Non-IID Data. Authors: Chi Zhang, Karthika Mohan, Judea Pearl. [paper](https://drive.google.com/file/d/1KxspuUNzZ0-D043_BWz2WYsn-d7uWDXt/view?usp=sharing)
+P15: Bias of Causal Identification using Non-IID Data. Authors: Chi Zhang, Karthika Mohan, Judea Pearl. [paper](https://drive.google.com/file/d/18uKWkpYyY3euMxFq76xRa_Kdq6RwMCbc/view)
 
 P16: Bayesian Reasoning with Trained Neural Networks. Authors: Jakob Knollmüller, Torsten Ensslin. [paper](https://drive.google.com/file/d/1KxspuUNzZ0-D043_BWz2WYsn-d7uWDXt/view)
 
