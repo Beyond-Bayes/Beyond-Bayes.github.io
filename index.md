@@ -65,6 +65,7 @@ Kimberly Stachenfeld is a Senior Research Scientist at DeepMind. She received he
 Thomas Icard is an Associate Professor of Philosophy and (by courtesy) of Computer Science at Stanford University. Thomas works at the intersection of philosophy, cognitive science, and computer science, especially on topics that sit near the boundary between the normative (how we ought to think and act) and the descriptive (how we in fact do think and act). Much of his research concerns the theory and application of logic, probability, and causal modeling and inference. Some current topics of interest include explanation, the quantitative/qualitative interface, and reasoning with limited resources.
 
 ### [Tyler Bonnen](https://neuroscience.stanford.edu/people/tyler-bonnen)
+<img src="https://neuroscience.stanford.edu/sites/g/files/sbiybj1576/f/styles/large-square/public/r_2eo6alvtpkc3ed6_ok.png" width="200" />
 Tyler is a PhD student in the Department of Psychology at Stanford University. After transferring from Miami-Dade Community College, tyler studied chemistry and comparative literature at Columbia University. He went on to research fellowships in the Max-Planck Institute in Leipzig, then in the Department of Brain and Cognitive Sciences at MIT before coming to Stanford. In his current work, co-advised by Anthony Wagner and Daniel Yamins, tyler uses biologically plausible computational models, neural data, and animal behavior in order to formalize the relationship between perception and memory.
 
 ### [Ishita Dasgupta](https://ishita-dg.github.io/)
@@ -80,7 +81,7 @@ Jan-Willem van de Meent’s group develops models for artificial intelligence by
 Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.github.io/anglican/), a probabilistic language based on Clojure. His group currently develops [Probabilistic Torch](https://github.com/probtorch/probtorch), a library for deep generative models that extends PyTorch. He is an author on a forthcoming book on probabilistic programming, a draft of which is available on arXiv. He is a co-chair of the international conference on probabilistic programming ([PROBPROG](https://probprog.cc/)). He was the recipient of an NWO Rubicon Fellowship and is a current recipient of the NSF CAREER award.
 
 ### [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/)
-
+<img src="https://homepages.inf.ed.ac.uk/csutton/images/charles3.jpg" width="200" />
 Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent to Associate Professor: http://bit.ly/1W9UhqT) in Machine Learning at the University of Edinburgh. He has published over 50 papers in probabilistic machine learning and deep learning, motivated by the demands of a broad range of applications, including natural language processing (NLP), analysis of computer systems, sustainable energy, data analysis, and software engineering. His work in machine learning for software engineering has won two ACM Distinguished Paper Awards.
 
 # Schedule and Planned Activities
