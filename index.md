@@ -204,7 +204,7 @@ P27: Explanatory Paradigms in Neural Networks. Authors: Mohit Prabhushankar, Gha
 
 P28: On the Generalization and Adaption Performance of Causal Models. Authors: Nino Scherrer, Anirudh Goyal, Stefan Bauer, Yoshua Bengio, Nan Rosemary Ke. 
 
-P29: Predicting Human Similarity Judgments Using Large Language Models. Authors: Raja Marjieh, Ilia Sucholutsky, Theodore Sumers, Nori Jacoby, Thomas L. Griffiths. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+P29: Predicting Human Similarity Judgments Using Large Language Models. Authors: Raja Marjieh, Ilia Sucholutsky, Theodore Sumers, Nori Jacoby, Thomas L. Griffiths. [paper](https://drive.google.com/file/d/1gyVi6OiBdT9q5uUXedsU90JvDYb_Zxn3/view)
 
 P30: Meta-Learning Real-Time Bayesian AutoML For Small Tabular Data. Authors: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
 
