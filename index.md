@@ -3,7 +3,7 @@
 - [Abstract](#abstract)
 - [Invited Speakers and Panelists](#invited-speakers-and-panelists)
 - [Schedule and Planned Activities](#schedule-and-planned-activities)
-- [Accepted posters](#accepted-posters)
+- [Accepted Posters](#accepted-posters)
 - [Organizers](#organizers)
 - [Call for Submissions (expired)](#call-for-submissions)
 
@@ -144,9 +144,83 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 
 **5:00 PM - 6:00 PM**: Poster Session (In Person Only)
 
-# Accepted posters
+# Accepted Posters
 
-- Lastname, firstname et al. - Poster title, authors et al. ([poster](https://link-to-poster), [paper](https://link-to-paper-pdf))
+[Google Drive PDFs](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P01: Maximum Entropy Function Learning. Authors: Simon Segert, Jonathan Cohen. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P02: Designing Perceptual Puzzles by Differentiating Probabilistic Programs. Authors: Kartik Chandra, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P03: Interoception as Modeling, Allostasis as Control. Authors: Eli Zachary Sennesh, Jordan Theriault, Dana Brooks, Jan-Willem van de Meent, Lisa Feldman Barrett, Karen Quigley. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P04: People Construct Simplified Mental Representations to Plan. Authors: Mark K Ho, David Abel, Carlos G. Correa, Michael Littman, Jonathan Cohen, Thomas L. Griffiths. [paper](https://www.nature.com/articles/s41586-022-04743-9.epdf?sharing_token=05ou7pT3QJfIbxrHZvRMC9RgN0jAjWel9jnR3ZoTv0Oomhhb6zGajHz2tGh1l0cpwVoKG3R0H0EUwGENmWFwLqJzWlnnIZJ0z23004gb70eBSASDgizZ5af_1rk6SMXTMoK3GeZhhDo9ndibk8zqH33DvIFZh2sxyVY1P7ngPU0%3D)
+
+P05: Using Language and Programs to Instill Human Inductive Biases in Machines. Authors: Sreejan Kumar, Carlos G. Correa, Ishita Dasgupta, Raja Marjieh, Michael Hu, Robert D. Hawkins, Nathaniel Daw, Jonathan Cohen, Karthik R Narasimhan, Thomas L. Griffiths. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P06: Automatic Inference with Pseudo-Marginal Hamiltonian Monte Carlo. Authors: Jinlin Lai, Daniel Sheldon. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P07: MoCa: Cognitive Scaffolding for Language Models in Causal and Moral Judgment Tasks. Authors: Allen Nie, Atharva Amdekar, Christopher J Piech, Tatsunori Hashimoto, Tobias Gerstenberg. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P08: Map Induction: Compositional Spatial Submap Learning for Efficient Exploration in Novel Environments. Authors: Sugandha Sharma, Aidan Curtis, Marta Kryven, Joshua B. Tenenbaum, Ila R Fiete. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P09: Towards a Neuroscience of "Stories”: Metric Space Learning in the Hippocampus. Authors: Zhenrui Liao, Attila Losonczy. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P10: Combining Functional and Automata Synthesis to Discover Causal Reactive Programs. Authors: Ria Das, Joshua B. Tenenbaum, Armando Solar-Lezama, Zenna Tavares
+ 
+P11: MetaCOG: Learning a Meta-cognition to Recover what Objects are Actually There. Authors: Marlene Berke, Zhangir Azerbayev, Mario Belledonne, Zenna Tavares, Julian Jara-Ettinger. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P12: Desiderata for Abstraction. Authors: Simon Alford, Zenna Tavares, Kevin Ellis. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P13: Estimating Categorical Counterfactuals via Deep Twin Networks. Authors: Athanasios Vlontzos, Bernhard Kainz, Ciarán Mark Gilligan-Lee. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P14: Logical Activation Functions: Logit-space Equivalents of Probabilistic Boolean Operators. Authors: Scott C Lowe, Robert Earle, Jason d'Eon, Thomas Trappenberg, Sageev Oore. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P15: Bias of Causal Identification using Non-IID Data. Authors: Chi Zhang, Karthika Mohan, Judea Pearl. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P16: Bayesian Reasoning with Trained Neural Networks. Authors: Jakob Knollmüller, Torsten Ensslin. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P17: Correcting Model Bias with Sparse Implicit Processes. Authors: Simon Rodriguez Santana, Luis A. Ortega, Daniel Hernández-Lobato, Bryan Zaldivar. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P18: Abstract Interpretation for Generalized Heuristic Search in Model-Based Planning. Authors: Tan Zhi-Xuan, Joshua B. Tenenbaum, Vikash Mansinghka. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P19: Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI. Authors: Suzanna Sia, Anton Belyy, Amjad Almahairi, Madian Khabsa, Luke Zettlemoyer, Lambert Mathias. [paper](https://arxiv.org/pdf/2205.12469.pdf)
+
+P20: Learning to Reason about and to Act on Cascading Events. Authors: Yuval Atzmon, Eli Meirom, Shie Mannor, Gal Chechik. [paper](https://arxiv.org/pdf/2202.01108.pdf)
+
+P21: Reverse-Mode Automatic Differentiation and Optimization of GPU Kernels via Enzyme. Authors: William S. Moses, Valentin Churavy, Ludger Paehler, Jan Hückelheim, Sri Hari Krishna Narayanan, Michel Schanen, Johannes Doerfert. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj) - originally published at SC '21
+
+P22: Type Theory for Inference and Learning in Minds and Machines. Author: Felix Anthony Sosa, Tomer D. Ullman. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P23: Language Model Cascades. Authors: David Dohan, Aitor Lewkowycz, Jacob Austin, Winnie Xu, Yuhuai Wu, David Bieber, Raphael Gontijo-Lopes, Henryk Michalewski, Rif A. Saurous, Jascha Sohl-Dickstein, Kevin Patrick Murphy, Charles Sutton. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P24: Unifying Generative Models with GFlowNets. Authors: Dinghuai Zhang, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P25: Proving Theorems using Incremental Learning and Hindsight Experience Replay. Authors: Eser Aygün, Laurent Orseau, Ankit Anand, Xavier Glorot, Stephen Marcus McAleer, Vlad Firoiu, Lei M Zhang, Doina Precup, Shibl Mourad. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P26: Biological Mechanisms for Learning Predictive Models of the World and Generating Flexible Predictions. Authors: Ching Fang, Dmitriy Aronov, Larry Abbott, Emily L Mackevicius. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P27: Explanatory Paradigms in Neural Networks. Authors: Mohit Prabhushankar, Ghassan AlRegib. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P28: On the Generalization and Adaption Performance of Causal Models. Authors: Nino Scherrer, Anirudh Goyal, Stefan Bauer, Yoshua Bengio, Nan Rosemary Ke. 
+
+P29: Predicting Human Similarity Judgments Using Large Language Models. Authors: Raja Marjieh, Ilia Sucholutsky, Theodore Sumers, Nori Jacoby, Thomas L. Griffiths. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P30: Meta-Learning Real-Time Bayesian AutoML For Small Tabular Data. Authors: Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P31: Can Humans Do Less-Than-One-Shot Learning? Authors: Maya Malaviya, Ilia Sucholutsky, Kerem Oktar, Thomas L. Griffiths. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P32: Collapsed Inference for Bayesian Deep Learning. Authors: Zhe Zeng, Guy Van den Broeck. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P33: ViRel: Unsupervised Visual Relations Discovery with Graph-level Analogy. Authors: Daniel Zeng, Tailin Wu, Jure Leskovec. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P34: ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time. Authors: Tailin Wu, Megan Tjandrasuwita, Zhengxuan Wu, Xuelin Yang, Kevin Liu, Rok Sosic, Jure Leskovec. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P35: Hybrid AI Integration Using Implicit Representations With Scruff. Authors: Avi Pfeffer, Michael Harradon, Sanja Cvijic, Joseph Campolongo. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj) 
+
+P36: Large Language Models are Zero-Shot Reasoners. Authors: Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
+
+P37: Structured, Flexible, and Robust: Benchmarking and Improving Large Language Models Towards More Human-like Behavior in Out-of-Distribution Reasoning Tasks. Authors: Katherine M. Collins, Catherine Wong, Jiahei Feng, Megan Wei, Joshua B. Tenenbaum. [paper](https://drive.google.com/drive/folders/1EKuXBIEN-3Y3ebgaWahJhRcMmJWh9DCj)
 
 # Organizers
 
