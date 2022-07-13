@@ -166,7 +166,7 @@ P08: Map Induction: Compositional Spatial Submap Learning for Efficient Explorat
 
 P09: Towards a Neuroscience of "Stories”: Metric Space Learning in the Hippocampus. Authors: Zhenrui Liao, Attila Losonczy. [paper](https://drive.google.com/file/d/1C5YovpalkopgXVjPFKluP_9cTC4VAj6m/view)
 
-P10: Combining Functional and Automata Synthesis to Discover Causal Reactive Programs. Authors: Ria Das, Joshua B. Tenenbaum, Armando Solar-Lezama, Zenna Tavares
+P10: Combining Functional and Automata Synthesis to Discover Causal Reactive Programs. Authors: Ria Das, Joshua B. Tenenbaum, Armando Solar-Lezama, Zenna Tavares. [paper](https://drive.google.com/file/d/1qK-o-yh4rnr3AFeML0uuDNddDXhu6_BF/view)
  
 P11: MetaCOG: Learning a Meta-cognition to Recover what Objects are Actually There. Authors: Marlene Berke, Zhangir Azerbayev, Mario Belledonne, Zenna Tavares, Julian Jara-Ettinger. [paper](https://drive.google.com/file/d/10IA-bMrjZLiBv-IzhU5dHjGzcuC1a4UB/view?usp=sharing)
 
@@ -202,7 +202,7 @@ P26: Biological Mechanisms for Learning Predictive Models of the World and Gener
 
 P27: Explanatory Paradigms in Neural Networks. Authors: Mohit Prabhushankar, Ghassan AlRegib. [paper](https://drive.google.com/file/d/1OL9-Xodd3AXvGsOoSELvf0IhvHkiWOSh/view)
 
-P28: On the Generalization and Adaption Performance of Causal Models. Authors: Nino Scherrer, Anirudh Goyal, Stefan Bauer, Yoshua Bengio, Nan Rosemary Ke. 
+P28: On the Generalization and Adaption Performance of Causal Models. Authors: Nino Scherrer, Anirudh Goyal, Stefan Bauer, Yoshua Bengio, Nan Rosemary Ke. [paper](https://drive.google.com/file/d/1O2VPtPMMlHNztGWPb6QF-z-YuyvrelP9/view) 
 
 P29: Predicting Human Similarity Judgments Using Large Language Models. Authors: Raja Marjieh, Ilia Sucholutsky, Theodore Sumers, Nori Jacoby, Thomas L. Griffiths. [paper](https://drive.google.com/file/d/1gyVi6OiBdT9q5uUXedsU90JvDYb_Zxn3/view)
 
