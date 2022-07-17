@@ -48,7 +48,7 @@ Specific topics relevant to these larger goals include:
 
 *This list is still being finalized and may see further additions or removals*
 
-### [Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html) *(tentatively confirmed)* 
+### [Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html)
 
 Joshua Tenenbaum is Professor of Computational Cognitive Science at MIT in the Department of Brain and Cognitive Sciences, the Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds and Machines (CBMM). His long-term goal is to reverse-engineer intelligence in the human mind and brain, and to use these insights to engineer more human-like machine intelligence. In cognitive science, he is best known for developing theories of cognition as probabilistic inference in structured generative models, and applications to concept learning, causal reasoning, language acquisition, visual perception, intuitive physics, and theory of mind. In AI, he and his group have developed widely used models for nonlinear dimensionality reduction, probabilistic programming, and Bayesian unsupervised learning and structure discovery. His current research focuses on common-sense scene understanding and action planning, the development of common sense in infants and young children, and learning through probabilistic program induction and neuro-symbolic program synthesis. His work has been published in many leading journals and recognized with awards at conferences in Cognitive Science, Computer Vision, Neural Information Processing Systems, Reinforcement Learning and Decision Making, and Robotics. He is the recipient of the Distinguished Scientific Award for Early Career Contributions in Psychology from the American Psychological Association (2008), the Troland Research Award from the National Academy of Sciences (2011), the Howard Crosby Warren Medal from the Society of Experimental Psychologists (2016), the R&D Magazine Innovator of the Year award (2018), and a MacArthur Fellowship (2019). He is a fellow of the Cognitive Science Society, the Society for Experimental Psychologists, and a member of the American Academy of Arts and Sciences.
 
@@ -80,10 +80,6 @@ Jan-Willem van de Meent’s group develops models for artificial intelligence by
 
 Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.github.io/anglican/), a probabilistic language based on Clojure. His group currently develops [Probabilistic Torch](https://github.com/probtorch/probtorch), a library for deep generative models that extends PyTorch. He is an author on a forthcoming book on probabilistic programming, a draft of which is available on arXiv. He is a co-chair of the international conference on probabilistic programming ([PROBPROG](https://probprog.cc/)). He was the recipient of an NWO Rubicon Fellowship and is a current recipient of the NSF CAREER award.
 
-### [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/)
-<img src="https://homepages.inf.ed.ac.uk/csutton/images/charles3.jpg" width="200" />
-Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent to Associate Professor: http://bit.ly/1W9UhqT) in Machine Learning at the University of Edinburgh. He has published over 50 papers in probabilistic machine learning and deep learning, motivated by the demands of a broad range of applications, including natural language processing (NLP), analysis of computer systems, sustainable energy, data analysis, and software engineering. His work in machine learning for software engineering has won two ACM Distinguished Paper Awards.
-
 # Schedule and Planned Activities
 The workshop will consist of an opening keynote presentation and three sessions, each broken up by 30 minute ICML plenary breaks. Discussion will be encouraged at all sessions. Invited talks will be 20 minutes followed by 25 minute panel discussions, in which the audience is welcome to participate in the Q+A. Contributed talks will be rapid, 5 minute presentations; attendees may use the ICML break times immediately following these presentations to meet the researchers and ask any questions. 
 
@@ -110,7 +106,7 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 
 - Moderator/MC: Robert Ness
 - Talk 1 (20 min): Joshua Tenenbaum, Professor of Computational Cognitive Science at MIT in the Department of Brain and Cognitive Sciences, the Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds and Machines (CBMM)
-- Talk 2 (20 min): Charles Sutton, Research Scientist, Google AI; Associate Professor, School of Informatics, University of Edinburgh; and Fellow, The Alan Turing Institute
+- Talk 2 (20 min): Speaker TBD
 - Q+A and Group Panel Discussion (25 min) - Thomas Icard will also join this panel discussion
 
 **11:35 AM - 12:00 PM**: Contributed Spotlight Talks: Part 2
