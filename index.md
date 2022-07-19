@@ -48,10 +48,6 @@ Specific topics relevant to these larger goals include:
 
 *This list is still being finalized and may see further additions or removals*
 
-### [Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html)
-
-Joshua Tenenbaum is Professor of Computational Cognitive Science at MIT in the Department of Brain and Cognitive Sciences, the Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds and Machines (CBMM). His long-term goal is to reverse-engineer intelligence in the human mind and brain, and to use these insights to engineer more human-like machine intelligence. In cognitive science, he is best known for developing theories of cognition as probabilistic inference in structured generative models, and applications to concept learning, causal reasoning, language acquisition, visual perception, intuitive physics, and theory of mind. In AI, he and his group have developed widely used models for nonlinear dimensionality reduction, probabilistic programming, and Bayesian unsupervised learning and structure discovery. His current research focuses on common-sense scene understanding and action planning, the development of common sense in infants and young children, and learning through probabilistic program induction and neuro-symbolic program synthesis. His work has been published in many leading journals and recognized with awards at conferences in Cognitive Science, Computer Vision, Neural Information Processing Systems, Reinforcement Learning and Decision Making, and Robotics. He is the recipient of the Distinguished Scientific Award for Early Career Contributions in Psychology from the American Psychological Association (2008), the Troland Research Award from the National Academy of Sciences (2011), the Howard Crosby Warren Medal from the Society of Experimental Psychologists (2016), the R&D Magazine Innovator of the Year award (2018), and a MacArthur Fellowship (2019). He is a fellow of the Cognitive Science Society, the Society for Experimental Psychologists, and a member of the American Academy of Arts and Sciences.
-
 ### [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/)
 <img src="https://user-images.githubusercontent.com/2993689/164081243-dcc8b5bb-a267-4688-9a2f-37a740e53938.jpg" width="200" />
 Guy Van den Broeck is an Associate Professor and Samueli Fellow at UCLA, in the Computer Science Department, where he directs the Statistical and Relational Artificial Intelligence (StarAI) lab. His research interests are in Machine Learning, Knowledge Representation and Reasoning, and Artificial Intelligence in general. His papers have been recognized with awards from key conferences such as AAAI, UAI, KR, OOPSLA, and ILP. Guy is the recipient of an NSF CAREER award, a Sloan Fellowship, and the IJCAI-19 Computers and Thought Award. 
@@ -105,16 +101,16 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 **10:30 AM - 11:35 PM**: Session 1: New Reasoning Problems and Modes of Reasoning (Talks & Panel Discussion)
 
 - Moderator/MC: Robert Ness
-- Talk 1 (20 min): Joshua Tenenbaum, Professor of Computational Cognitive Science at MIT in the Department of Brain and Cognitive Sciences, the Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Center for Brains, Minds and Machines (CBMM)
+- Talk 1 (20 min): Speaker TBD
 - Talk 2 (20 min): Speaker TBD
 - Q+A and Group Panel Discussion (25 min) - Thomas Icard will also join this panel discussion
 
 **11:35 AM - 12:00 PM**: Contributed Spotlight Talks: Part 2
 
-- Talk 4 (P10): Combining Functional and Automata Synthesis to Discover Causal Reactive Programs (Ria Das)
-- Talk 5 (P26): Biological Mechanisms for Learning Predictive Models of the World and Generating Flexible Predictions (Ching Fang)
-- Talk 6 (P02): Designing Perceptual Puzzles by Differentiating Probabilistic Programs (Kartik Chandra)
-- Talk 7 (P14): Logical Activation Functions (Scott Lowe)
+- Talk 4 (P10): Biological Mechanisms for Learning Predictive Models of the World and Generating Flexible Predictions (Ching Fang)
+- Talk 5 (P26): Designing Perceptual Puzzles by Differentiating Probabilistic Programs (Kartik Chandra) 
+- Talk 6 (P02): Logical Activation Functions (Scott Lowe)
+- Talk 7 (P14): Combining Functional and Automata Synthesis to Discover Causal Reactive Programs (Ria Das)
 
 **12:00 PM - 1:30 PM**: ICML Plenary Lunch Break
 
