@@ -107,10 +107,10 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 
 **11:35 AM - 12:00 PM**: Contributed Spotlight Talks: Part 2
 
-- Talk 4 (P10): Biological Mechanisms for Learning Predictive Models of the World and Generating Flexible Predictions (Ching Fang)
-- Talk 5 (P26): Designing Perceptual Puzzles by Differentiating Probabilistic Programs (Kartik Chandra) 
-- Talk 6 (P02): Logical Activation Functions (Scott Lowe)
-- Talk 7 (P14): Combining Functional and Automata Synthesis to Discover Causal Reactive Programs (Ria Das)
+- Talk 4 (P26): Biological Mechanisms for Learning Predictive Models of the World and Generating Flexible Predictions (Ching Fang)
+- Talk 5 (P02): Designing Perceptual Puzzles by Differentiating Probabilistic Programs (Kartik Chandra) 
+- Talk 6 (P14): Logical Activation Functions (Scott Lowe)
+- Talk 7 (P10): Combining Functional and Automata Synthesis to Discover Causal Reactive Programs (Ria Das)
 
 **12:00 PM - 1:30 PM**: ICML Plenary Lunch Break
 
