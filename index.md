@@ -80,6 +80,10 @@ Jan-Willem van de Meent is one of the creators of [Anglican](https://probprog.gi
 <img src="https://nke001.github.io/files/img.jpg" width="200" />
 Rosemary is a research scientist at Deepmind. Previously, she was a PhD student at Mila, advised by Yoshua Bengio and Chris Pal. Her research centers around developing novel machine learning algorithms that can generalize well to changing environments. Her research focuses on two key ingredients: credit assignment and causal learning. These two ingredients flow into and reinforce each other: appropriate credit assignment can help a model refine itself only at relevant causal variables, while a model that comprehends causality sufficiently well can reason about the connections between causal variables and the effect of intervening on them. She has co-organized a conference, 6 workshops and 3 challenges. These are the conference on causal learning and reasoning (CLeaR) 2022, the “inductive biases, invariances and generalization in reinforcement learning” workshop at ICML 2020, “causal learning for decision making” workshop at ICLR2020, “efficient credit assignment workshop” at ICML 2018, “reproducibility in machine learning” at ICML 2017, ICML 2018 and ICLR 2019), the “Real robot challenge” at NeurIPS 2021 and the ICLR reproducibility challenge at ICLR 2018 and ICLR 2019. 
 
+### [Armando Solar-Lezama](http://people.csail.mit.edu/asolar/)
+<img src="https://images.squarespace-cdn.com/content/v1/52a900c9e4b025722db03e96/1495837618258-3NCH7VE3GNOZD7A9RTE5/image-asset.jpeg?format=1000w" width="200" />
+Armando Solar-Lezama is a Professor in the Department of Electrical Engineering and Computer science and associate director of the Computer Science and Artificial Intelligence Lab at MIT. His background is in programming languages, where he is best known for his seminal work on program synthesis. More recently, he has been working at the intersection of programming languages and machine learning, exploring learning techniques that combine the formal guarantees of program synthesis with the expressiveness of traditional machine learning.  He has co-organized a number of workshops including the Workshop on Computer Assisted Programming (CAP) at NeurIPS 2020 and the workshop on Machine Learning and Programming Languages (MAPL) at PLDI 2019. 
+
 # Schedule and Planned Activities
 The workshop will consist of an opening keynote presentation and three sessions, each broken up by 30 minute ICML plenary breaks. Discussion will be encouraged at all sessions. Invited talks will be 20 minutes followed by 25 minute panel discussions, in which the audience is welcome to participate in the Q+A. Contributed talks will be rapid, 5 minute presentations; attendees may use the ICML break times immediately following these presentations to meet the researchers and ask any questions. 
 
@@ -105,8 +109,8 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 **10:30 AM - 11:35 PM**: Session 1: New Reasoning Problems and Modes of Reasoning (Talks & Panel Discussion)
 
 - Moderator/MC: Robert Ness
-- Talk 1 (20 min): Speaker TBD
-- Talk 2 (20 min): Speaker TBD
+- Talk 1 (20 min): Nan Rosemary Ke
+- Talk 2 (20 min): Armando Solar-Lezama
 - Q+A and Group Panel Discussion (25 min) - Thomas Icard will also join this panel discussion
 
 **11:35 AM - 12:00 PM**: Contributed Spotlight Talks: Part 2
