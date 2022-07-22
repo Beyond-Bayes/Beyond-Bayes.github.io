@@ -84,6 +84,10 @@ Rosemary is a research scientist at Deepmind. Previously, she was a PhD student 
 <img src="https://images.squarespace-cdn.com/content/v1/52a900c9e4b025722db03e96/1495837618258-3NCH7VE3GNOZD7A9RTE5/image-asset.jpeg?format=1000w" width="200" />
 Armando Solar-Lezama is a Professor in the Department of Electrical Engineering and Computer science and associate director of the Computer Science and Artificial Intelligence Lab at MIT. His background is in programming languages, where he is best known for his seminal work on program synthesis. More recently, he has been working at the intersection of programming languages and machine learning, exploring learning techniques that combine the formal guarantees of program synthesis with the expressiveness of traditional machine learning.  He has co-organized a number of workshops including the Workshop on Computer Assisted Programming (CAP) at NeurIPS 2020 and the workshop on Machine Learning and Programming Languages (MAPL) at PLDI 2019. 
 
+### [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/)
+<img src="https://homepages.inf.ed.ac.uk/csutton/images/charles3.jpg" width="200" />
+Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent to Associate Professor: http://bit.ly/1W9UhqT) in Machine Learning at the University of Edinburgh. He has published over 50 papers in probabilistic machine learning and deep learning, motivated by the demands of a broad range of applications, including natural language processing (NLP), analysis of computer systems, sustainable energy, data analysis, and software engineering. His work in machine learning for software engineering has won two ACM Distinguished Paper Awards.
+
 # Schedule and Planned Activities
 The workshop will consist of an opening keynote presentation and three sessions, each broken up by 30 minute ICML plenary breaks. Discussion will be encouraged at all sessions. Invited talks will be 20 minutes followed by 25 minute panel discussions, in which the audience is welcome to participate in the Q+A. Contributed talks will be rapid, 5 minute presentations; attendees may use the ICML break times immediately following these presentations to meet the researchers and ask any questions. 
 
@@ -137,7 +141,7 @@ The workshop will be held at the Baltimore Convention Center in Ballroom 2 (Leve
 - Moderator/MC: Armando Solar-Lezama
 - Talk 1 (20 min): Guy Van den Broeck, Associate Professor and Samueli Fellow, Computer Science Department, UCLA
 - Talk 2 (20 min): Jan-Willem van de Meent, Associate Professor (Universitair Hoofddocent), University of Amsterdam
-- Talk 3: Speaker TBD
+- Talk 3: Charles Sutton, Research Scientist at Google Brain; and a Reader (equivalent to Associate Professor: http://bit.ly/1W9UhqT) in Machine Learning at the University of Edinburgh - JOINING VIRTUALLY
 - Q+A and Group Panel Discussion (25 min)
 
 **4:55 PM - 5:00 PM**: Closing Remarks
