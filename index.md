@@ -260,6 +260,9 @@ P37: Structured, Flexible, and Robust: Benchmarking and Improving Large Language
 
 # Organizers
 
+### __Program Chair:__ [Zenna Tavares](http://www.zenna.org/)
+Zenna Tavares is the inaugural Innovation Scholar in Columbia University’s Zuckerman Mind Brain Behavior Institute, and Associate Research Scientist in the Data Science Institute. Zenna’s research aims to understand how humans reason, that is, how they come to derive knowledge from observing and interacting with the world. He also constructs computational and statistical tools that help advance his work on causal reasoning, probabilistic programming, and other areas. Prior to Columbia University, he was at MIT, where he received a PhD in Cognitive Science and Statistics and was a Postdoctoral Research researcher in the Computer Science Artificial Intelligence Lab (CSAIL). Zenna has co-organized a number of workshops, including DBAI at Neurips 2021, and OOD Generalization at Neurips 2021, and served on the program committee for UAI, ICML, Neurips, ICLR, and LAFI (POPL).
+
 ### [Nada Amin](https://namin.seas.harvard.edu/)
 Nada Amin is an assistant professor of computer science at Harvard SEAS. Previously, she was a University Lecturer in Programming Languages at the University of Cambridge, and a member of the team behind the Scala programming language at EPFL. She is broadly interested in programming languages, and the intersection of programming languages and artificial intelligence. She has co-organized the Scala, Scheme, miniKanren and TyDe (Type-driven Development) workshops, and has served on the program committee of POPL, FLOPS, OOPSLA, UAI among others.
 
@@ -283,9 +286,6 @@ Talia Ringer is an assistant professor at the University of Illinois at Urbana-C
 
 ### [Armando Solar-Lezama](http://people.csail.mit.edu/asolar/)
 Armando Solar-Lezama is a Professor in the Department of Electrical Engineering and Computer science and associate director of the Computer Science and Artificial Intelligence Lab at MIT. His background is in programming languages, where he is best known for his seminal work on program synthesis. More recently, he has been working at the intersection of programming languages and machine learning, exploring learning techniques that combine the formal guarantees of program synthesis with the expressiveness of traditional machine learning.  He has co-organized a number of workshops including the Workshop on Computer Assisted Programming (CAP) at NeurIPS 2020 and the workshop on Machine Learning and Programming Languages (MAPL) at PLDI 2019. 
-
-### __Program Chair:__ [Zenna Tavares](http://www.zenna.org/)
-Zenna Tavares is the inaugural Innovation Scholar in Columbia University’s Zuckerman Mind Brain Behavior Institute, and Associate Research Scientist in the Data Science Institute. Zenna’s research aims to understand how humans reason, that is, how they come to derive knowledge from observing and interacting with the world. He also constructs computational and statistical tools that help advance his work on causal reasoning, probabilistic programming, and other areas. Prior to Columbia University, he was at MIT, where he received a PhD in Cognitive Science and Statistics and was a Postdoctoral Research researcher in the Computer Science Artificial Intelligence Lab (CSAIL). Zenna has co-organized a number of workshops, including DBAI at Neurips 2021, and OOD Generalization at Neurips 2021, and served on the program committee for UAI, ICML, Neurips, ICLR, and LAFI (POPL).
 
 
 # Call for Submissions
